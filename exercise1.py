@@ -2,7 +2,6 @@ import funciones as fn
 
 productos = {}
 
-
 while True:
     print("-----MENU----------")
     print("1. Agregar producto")
